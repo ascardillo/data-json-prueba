@@ -1,0 +1,58 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "afiliado": "Ariel Gonzalez",
+    "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    "date": "10/10/2020"	
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "afiliado": "Pepe Garcia",
+    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "date": "10/10/2020"	
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "afiliado": "Romina Lopez",
+    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    "date": "15/10/2020"	
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "afiliado": "Neri Rodriguez",
+    "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
+    "date": "10/10/2020"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "afiliado": "Alvaro Gonzalez",
+    "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
+    "date": "10/09/2020"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "afiliado": "Alberto Torres",
+    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    "date": "18/10/2020"
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "afiliado": "Maria Belen",
+    "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
+    "date": "15/10/2020"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "afiliado": "Fernando Lopez",
+    "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+    "date": "10/10/2020"
+  } 
+]
